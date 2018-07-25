@@ -1,0 +1,17 @@
+{
+  "name": "iwanna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "iwanna.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Sigler",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.1.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "yargs": "^12.0.1"
+  }
+}
